@@ -14,11 +14,8 @@ cd <your-repository>
 ```
 3. Set up your environment variables:
 ```javascript
-export DB_HOST=<your-database-host>
-export DB_PASSWORD=<your-database-password>
-export DB_NAME=<your-database-name>
-export AWS_SECRET=<your-aws-secret-key>
-export BUCKET_NAME=<your-aws-s3-bucket-name>
+export DB_HOST=<your-database-host>; export DB_PASSWORD=<your-database-password>; export DB_NAME=<your-database-name>; export AWS_SECRET=<your-aws-secret-key>; export BUCKET_NAME=<your-aws-s3-bucket-name>
+
 ```
 4. Run the script to create a backup of your database and upload it to S3:
 ```bash
