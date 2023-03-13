@@ -4,7 +4,7 @@ This repository contains the Docker Compose files and Dockerfiles needed to crea
 
 1. Clone the repository:
 
-'''bash
+'''bash'''
 git clone https://github.com/<your-username>/<your-repository>.git
 '''
  
